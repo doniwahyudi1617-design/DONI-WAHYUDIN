@@ -1,0 +1,20 @@
+{
+  "short_name": "SSIBAL",
+  "name": "SSIBAL - Men's Essentials",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/ssibal/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/seed/ssibal/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0A0A0A",
+  "background_color": "#0A0A0A"
+}
